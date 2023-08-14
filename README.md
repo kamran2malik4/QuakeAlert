@@ -2,7 +2,7 @@
 This simple app gives you list of recent earthquakes.
 This app does not have any notification service to alert you about a nearby by earthquake few seconds earlier.
 
-The Earthquake Data is Provided by USGS here is the link:- "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson"
+The Earthquake Data is Provided by USGS:- "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson"
 
 Here is Preview of App:
 

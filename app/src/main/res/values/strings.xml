@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quake Alert</string>
+    <string name="settings">Earthquake Settings</string>
+
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">6</string>
+
+    <!-- Strings For List Length for Recent earthquakes -->
+    <string name="settings_recent_earthquakes_label">Recent Earthquakes List Limit</string>
+    <string name="settings_recent_earthquakes_key" translatable="false">recent_earthquakes</string>
+    <string name="settings_recent_earthquakes_default" translatable="false">10</string>
+
+    <!-- Strings For Displaying List Order -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">list_order</string>
+    <string name="settings_order_by_default" translatable="false">time</string>
+
+    <!-- String Array for Order by Entries -->
+    <string-array name="order_by_entries">
+        <item>time</item>
+        <item>magnitude</item>
+    </string-array>
+    <string-array name="order_by_entries_data">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
